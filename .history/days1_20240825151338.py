@@ -22,5 +22,5 @@ print(len(name))
 print(len(input("enter your name ?")))
 
 #Day 1 Project band name maker
-print("welcome to Band Name generator.")
-print((input("enter you city name?\n"))+" "+input("enter you pet name?\n"))
+print("welcome to ")
+
