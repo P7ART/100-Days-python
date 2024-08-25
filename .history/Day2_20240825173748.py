@@ -1,0 +1,1 @@
+#Subscriptingprint("hello"[0])
