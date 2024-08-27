@@ -81,4 +81,4 @@ tip_amount = bill * tip_percentage
 total_bill = bill + tip_amount
 split_bill = total_bill/people
 final_bill=round(split_bill,2)
-print(f"your split_bill between {people} is :$ {final_bill}")
+print("your split_bill between {peoople} +is :$",{final_bill})

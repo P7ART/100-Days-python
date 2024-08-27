@@ -1,0 +1,1 @@
+bill = input("enter your ")
